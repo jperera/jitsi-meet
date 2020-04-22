@@ -45,6 +45,8 @@ Para usar Jitsi desde un dispositivo móvil, debemos instalar una aplicación. S
 
 ## Crear una reunión
 
+### Desde ordenador
+
 * Ver a https://meet.jit.si/ o haz clic en "See it in Action! Start a meeting" en la página principal de Jitsi, [https://jitsi.org/](https://jitsi.org/). Puedes añadir ?lang=es-es a la URL o utilizar el menú de Ajustes (![menú ajustes](./settings-icon.png)) para cambiar el idioma en que se visualiza Jitsi Meet.
 
 * Escribe un nombre para tu sala, o deja el nombre generado con palabras aleatorias. 
@@ -61,5 +63,58 @@ Para usar Jitsi desde un dispositivo móvil, debemos instalar una aplicación. S
 
 ![Información de la sala](./meeeting-information.png)
 
+### Desde dispositivo móvil
+
+* Abre la aplicación Jitsi en tu dispositivo
+* Introduce un nombre de una reunión no existente para empezar una nueva reunión. Puedes introducir el nombre de una reunión existente para unirte a ella.
+
+## Control de la reunión
+
+### Audio
+
+Puedes activar o desactivar (silenciar) el micrófono haciendo clic en el icono de micrófono de los controles que aparecen en la parte inferior de la pantalla al mover el puntero del ratón dentro de la ventana de la reunión.
+
+![Botones inferiores](./jisti-buttons.png)
+
+Cuando el audio está desactivado el icono cambia:
+
+![Audio desactivado](./disabled-audio-button.png)
+ 
+Cuando el ordenador dispone de más de un dispositivo de audio de entrada o salida, clicando sobre el símbolo "V" que aparece al lado del icono de audio se puede elegir entre los distintos dispositivos.
+
+![Botón audio](./audio-button.png)
+
+### Vídeo
+
+Al igual que con el audio, puedes activar o desactivar tu vídeo haciendo clic en el icono de cámara de los controles que aparecen en la parte inferior de la pantalla al mover el puntero del ratón dentro de la ventana de la reunión.
+
+![Botones inferiores](./jisti-buttons.png)
+
+Cuando el vídeo está desactivado el icono cambia:
+
+![Vídeo desactivado](./disabled-video-button.png)
+
+Cuando el ordenador dispone de más de un dispositivo de vídeo, clicando sobre el símbolo "V" que aparece al lado del icono de vídeo se puede elegir entre los distintos dispositivos.
+
+![Botón vídeo](./disabled-video-button.png)
+
+### Invitar y gestionar participantes
+
+Durante una reunión o inmediatamente después de haberla empezado. Haciendo clic sobre el icono de información ![Icono información](./info-icon.png) para abrir el diálogo con información de la sala. Haz clic en "Copiar" en el diálogo informativo que aparece para copiar todos los detalles de la reunión, una invitación completa para compartir (por email, un chat, ...). Si solo quieres copiar el enlace a la reunión, usa el icono copiar (![icono copiar](./copy-icon.png)) al lado del enlace. 
 
 
+### Compartir pantalla
+
+Jitsi permite compartir tu pantalla entera o ventanas de aplicaciones concretas. Los asistentes puedes compartir sus pantallas en lugar del vídeo haciendo clic en el icono de compartir pantalla.
+
+Es posible que el navegador pida permiso para poder compartir pantalla.
+
+### Chat
+
+El chat permite enviar mensajes de texto al resto de asistentes a la reunión:
+
+1. 	Haz clic en el botón de chat para abrir la ventana de chat.
+
+2. 	Escribe tu mensaje en la ventana de chat y presiona la tecla "Intro" para enviarlo. Puedes hacer clic en el icono de emoticono para añadir emoticonos a tu mensaje.
+
+3. 	Tu mensaje aparecerá en la lista de mensajes. Puedes cerrar el chat haciendo clic en la "X" que aparece en la esquina superior derecha de la ventana de chat.
